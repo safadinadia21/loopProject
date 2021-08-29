@@ -1,0 +1,140 @@
+a:hover{
+  color: pink;
+
+}
+a{
+  text-decoration: none;
+  padding: 20px;
+  color: white;
+}
+body{
+  background-color: #EEEEEE;
+  margin: 0;
+}
+
+
+div{
+  padding: 100px;
+}
+h2{
+  text-decoration: underline;
+}
+table{
+  width: 500px;
+  height: 300px;
+}
+thead{
+  font-weight: bold;
+  font-size: 150%;
+}
+
+tr:hover{
+  background-color: #373A40;
+  color: white;
+}
+.albumtable{
+  width: 500px;
+  height: 300px;
+  
+}
+.band{
+  width: 50%;
+  font-size: 25px;
+  margin-left: auto;
+  margin-right:auto;
+  padding-top: 40px;
+}
+.bottom{
+  background-color: #373A40;
+  padding: 30px;
+  margin-top: 70px;
+}
+
+.main-nav {
+    display: flex;
+}
+.nameofmembers{
+  margin-left:  500px;
+  font-size: 100%;
+}
+
+.push {
+    margin-left: auto;
+}
+.h2pm{
+  font-size: 200%;
+  font-family: 'Pacifico', cursive;
+  margin:0;
+
+  color: white;
+  float: left;
+
+}
+.img1{
+
+  margin: 0;
+
+  top:0;
+  width: 100%;
+}
+.JYP{
+  padding: 0;
+
+}
+
+.jypic{
+  width: 500px;
+  margin-left: 500px;
+}
+.jypic:hover{
+  color: grey;
+}
+.middle{
+  width: 100%;
+  padding: 0;
+}
+.middle3{
+  padding: 0;
+}
+
+.mem{
+
+  margin-left: 300px;
+  padding-left: 20px;
+  padding-top: 50px;
+
+}
+.navigate{
+  position: fixed;
+  background-color: black;
+  padding: 7px;
+  left: 0;
+  right: 0;
+  top: 0;
+}
+.one{
+  margin-left: 300px;
+  padding-bottom: 20px;
+
+  float: left;
+  width: 300px;
+
+}
+
+.two{
+  margin-right: 200px;
+  float: right;
+    width: 300px;
+
+}
+.top{
+  margin-top: 70px;
+  padding: 0;
+
+
+}
+.video1{
+  padding: 0;
+  margin-left: 400px;
+  margin-top: 100px;
+}
